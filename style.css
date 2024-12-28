@@ -1,0 +1,22 @@
+body{
+    background-color: beige;
+    text-align: center;
+}
+h1{
+color: grey;
+}
+h2{
+    color: gray;
+}
+#Cairo{
+    color: crimson;
+    
+}
+
+.Riyadh{
+    color: darkgray;
+}
+
+*{
+    font-family:"Brush Script MT", cursive ;
+}
